@@ -369,8 +369,6 @@ button.button-white {
 
 .table-container__body-row-month__sticks:first-child {
     flex-direction: column-reverse;
-    position: relative;
-    bottom: 3px;
 }
 
 .table-container__body-row-month__sticks-stick-item {}
