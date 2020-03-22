@@ -356,7 +356,7 @@ button.button-white {
 
 .table-container__body-row-month__sticks {
     width: 8px;
-    height: 17px;
+    height: 21px;
     display: flex;
     flex-direction: column;
 }
@@ -370,7 +370,7 @@ button.button-white {
 .table-container__body-row-month__sticks:first-child {
     flex-direction: column-reverse;
     position: relative;
-    bottom: 2px;
+    bottom: 3px;
 }
 
 .table-container__body-row-month__sticks-stick-item {}
